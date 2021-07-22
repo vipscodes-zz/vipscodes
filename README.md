@@ -22,6 +22,7 @@ VIP CODE STUDIO is portfolio of Avip Syaifulloh and platform for learn programmi
 
 ### Link
 
+-   [Website](https://vipcodestudio.com).
 -   [YouTube](https://youtube.com/vipcodestudio).
 -   [Instagram](https://instagram.com/vipcodestudio).
 -   [Instagram Personal](https://instagram.com/avipsyaifulloh).
@@ -40,7 +41,6 @@ VIP CODE STUDIO is portfolio of Avip Syaifulloh and platform for learn programmi
 -   Express.js
 -   MySQL
 -   Mongo DB
--   Firebase
 -   GitHub
 
 ##### FrontEnd
