@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## VIP CODE STUDIO
 
-VIP CODE STUDIO is portfolio of Avip Syaifulloh and platform for learn programming & design.
+VIP CODE STUDIO is portfolio of Avip Syaifulloh and platform for learn programming & design. Avip is Front End Developer at PT.Telkom Indonesia, Content Creator at YouTube VIP CODE STUDIO, and UI/UX Designer at Bersow Games.
 
 ### Link
 
@@ -35,12 +35,14 @@ VIP CODE STUDIO is portfolio of Avip Syaifulloh and platform for learn programmi
 -   PHP
 -   Java
 -   SQL
+-   Python
 -   CodeIgniter
 -   Laravel
 -   Node.js
 -   Express.js
 -   MySQL
 -   Mongo DB
+-   Firebase
 -   GitHub
 
 ##### FrontEnd
@@ -51,6 +53,7 @@ VIP CODE STUDIO is portfolio of Avip Syaifulloh and platform for learn programmi
 -   Bootstrap
 -   Materialize
 -   React.js
+-   Next.js
 -   Vue.js
 -   Livewire
 -   EJS
